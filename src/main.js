@@ -1,1 +1,1 @@
-console.log(import.meta.env.VITE_BOZOBA);
+console.log(import.meta.env.VITE_VARIABLE);
