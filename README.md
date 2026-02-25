@@ -1,3 +1,9 @@
-# First steps with Docker
+# Training to build a deployment pipeline
 
-This is my first step with Docker. I created a basic node app, a Dockerfile and a compose file to work around containerization, docker files syntax and standardized deployment.
+I did this project to train Docker : what is a container, how to write a Dockerfile, a compose file, how to use multi-stage build for performance etc
+
+## Technical tools
+
+- Vite.js : A fast server to build a basic app
+- Nginx : A very lightweight web host
+- Docker : The standard to containerize apps
